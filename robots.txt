@@ -3,4 +3,4 @@ User-agent: *
 Disallow: 
 Crawl-delay: 5
 Disallow: /cgi-bin/
-Sitemap: https://fmoviestv-to.pages.dev/sitemap.xml
+Sitemap: https://zlib-official.pages.dev/sitemap.xml
